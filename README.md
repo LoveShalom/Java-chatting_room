@@ -1,1 +1,1 @@
-# Deng-Yifan-s-java-chatting-room
+# CSC1004 Chatting room
